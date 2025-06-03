@@ -156,7 +156,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <button type="submit" href="home.php">S'inscrire</button>
 
         <div class="bottom-link">
-            Déjà inscrit ? <a href="connexion.php">Connecte-toi</a>
+            Déjà inscrit ? <a href="login.php">Connecte-toi</a>
         </div>
     </form>
 
